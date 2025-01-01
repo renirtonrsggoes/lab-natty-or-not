@@ -13,7 +13,7 @@
 Criação de um Ebook com foco em desenvolvimento pessoal
 
 ## 🤖 Tecnologias Utilizadas
-Microsoft copilot
+Copilot
 
 ## 🧐 Processo de Criação
 A escolha da ferramente de criação foi baseada no uso diário do Copilot. Para geração do conteúdo utilizei o seguinte prompt:
