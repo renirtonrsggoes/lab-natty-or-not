@@ -10,7 +10,7 @@
 # Desenvolvimento Pessoal: Um Guia Abrangente para o Crescimento e Sucesso
 
 ## 📒 Descrição
-Criação de um Ebook com foco emdesenvolvimento pessoal
+Criação de um Ebook com foco em desenvolvimento pessoal
 
 ## 🤖 Tecnologias Utilizadas
 Microsoft copilot
